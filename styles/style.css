@@ -136,6 +136,9 @@ body {
         justify-content: center;
         width: auto;
     }
+    .header_menu_link{
+        padding: 5%;
+    }
     .presentacion{
         flex-direction: column-reverse;
         padding: 5%;

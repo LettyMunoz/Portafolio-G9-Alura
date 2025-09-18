@@ -138,6 +138,7 @@ body {
     }
     .header_menu_link{
         padding: 5%;
+        width: auto;
     }
     .presentacion{
         flex-direction: column-reverse;

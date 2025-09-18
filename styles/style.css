@@ -134,6 +134,7 @@ body {
     }
     .header_menu{
         justify-content: center;
+        width: auto;
     }
     .presentacion{
         flex-direction: column-reverse;
